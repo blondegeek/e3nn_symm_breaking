@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AX3B
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73600000
+_cell_length_b   5.73600000
+_cell_length_c   8.11200000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AX3B
+_chemical_formula_sum   'A4 X12 B4'
+_cell_volume   266.89855795
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  A0+  A0  1  0.00000000  0.00000000  0.25000000  1
+  A0+  A1  1  0.50000000  0.50000000  0.25000000  1
+  A0+  A2  1  0.50000000  0.50000000  0.75000000  1
+  A0+  A3  1  0.00000000  0.00000000  0.75000000  1
+  B  B4  1  0.00000000  0.50000000  0.00000000  1
+  B  B5  1  0.50000000  0.00000000  0.00000000  1
+  B  B6  1  0.50000000  0.00000000  0.50000000  1
+  B  B7  1  0.00000000  0.50000000  0.50000000  1
+  X0+  X8  1  0.25000000  0.75000000  0.00000000  1
+  X0+  X9  1  0.75000000  0.25000000  0.00000000  1
+  X0+  X10  1  0.75000000  0.25000000  0.50000000  1
+  X0+  X11  1  0.25000000  0.75000000  0.50000000  1
+  X0+  X12  1  0.75000000  0.75000000  0.00000000  1
+  X0+  X13  1  0.25000000  0.25000000  0.00000000  1
+  X0+  X14  1  0.25000000  0.25000000  0.50000000  1
+  X0+  X15  1  0.75000000  0.75000000  0.50000000  1
+  X0+  X16  1  0.00000000  0.50000000  0.25000000  1
+  X0+  X17  1  0.50000000  0.00000000  0.25000000  1
+  X0+  X18  1  0.50000000  0.00000000  0.75000000  1
+  X0+  X19  1  0.00000000  0.50000000  0.75000000  1

@@ -1,0 +1,94 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'potassium tecto-fluorozincate'
+_cell_length_a                         4.056(1)
+_cell_length_b                         4.056(1)
+_cell_length_c                         4.056(1)
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'P m -3 m'
+_space_group_IT_number                 221
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-x, -y, z'
+   'x, y, -z'
+   '-x, y, -z'
+   'x, -y, z'
+   'x, -y, -z'
+   '-x, y, z'
+   'z, x, y'
+   '-z, -x, -y'
+   'z, -x, -y'
+   '-z, x, y'
+   '-z, -x, y'
+   'z, x, -y'
+   '-z, x, -y'
+   'z, -x, y'
+   'y, z, x'
+   '-y, -z, -x'
+   '-y, z, -x'
+   'y, -z, x'
+   'y, -z, -x'
+   '-y, z, x'
+   '-y, -z, x'
+   'y, z, -x'
+   'y, x, -z'
+   '-y, -x, z'
+   '-y, -x, -z'
+   'y, x, z'
+   'y, -x, z'
+   '-y, x, -z'
+   '-y, x, z'
+   'y, -x, -z'
+   'x, z, -y'
+   '-x, -z, y'
+   '-x, z, y'
+   'x, -z, -y'
+   '-x, -z, -y'
+   'x, z, y'
+   'x, -z, y'
+   '-x, z, -y'
+   'z, y, -x'
+   '-z, -y, x'
+   'z, -y, x'
+   '-z, y, -x'
+   '-z, y, x'
+   'z, -y, -x'
+   '-z, -y, -x'
+   'z, y, x'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Zn1        1.0     0.000000      0.000000      0.000000     Biso  0.545592 Zn
+   K1         1.0     0.500000      0.500000      0.500000     Biso  1.189880 K
+   F1         1.0     0.500000      0.000000      0.000000     Biso  1.240149 F
+
+loop_
+   _atom_site_aniso_label
+   _atom_site_aniso_U_11
+   _atom_site_aniso_U_22
+   _atom_site_aniso_U_33
+   _atom_site_aniso_U_12
+   _atom_site_aniso_U_13
+   _atom_site_aniso_U_23
+   Zn1	 0.00691  0.00691  0.00691  0.00000  0.00000  0.00000
+   K1	 0.01507  0.01507  0.01507  0.00000  0.00000  0.00000
+   F1	 0.00760  0.01976  0.01976  0.00000  0.00000  0.00000
