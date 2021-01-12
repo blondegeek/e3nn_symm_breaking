@@ -5,8 +5,8 @@ https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.L012002
 ### Requirements
 * `torch`
 * `pymatgen`
-* `torch_geometric`
-* `e3nn`
+* `torch-geometric`
+* `e3nn==0.1.1` (Install version 0.1.1 [here](https://github.com/e3nn/e3nn/releases/tag/0.1.1) for CUDA or via `pip install e3nn==0.1.1` for CPU only)
 
 
 ### Notebooks
